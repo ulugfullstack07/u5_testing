@@ -1,1 +1,1 @@
-print('bugun juma')
+print('real 4:0 barca')
